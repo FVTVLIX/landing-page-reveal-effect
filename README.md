@@ -6,7 +6,7 @@ _This project displays more transition effects that can be acomplished with GSAP
 
 ## Image
 
-![]()
+![](transition.gif)
 
 ## Font
 
